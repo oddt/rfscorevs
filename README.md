@@ -24,10 +24,12 @@ Required software:
 * ODDT 0.2+
 * OpenBabel 2.4.1+
 * Scikit-Learn 0.17+
+* Seaborn
+* Pandas
 
 Additional software:
 * sklearn-compiledtrees 1.3+ (compiling RFs for final scoring function)
-* dask / ipyparallel (parallel computations on cluster)
+* dask / ipyparallel / ipython-cluster-helper (parallel computations on cluster)
 
 ## References:
 
