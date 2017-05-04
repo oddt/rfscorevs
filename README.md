@@ -16,6 +16,13 @@ Download RF-Score-VS for your platform:
 * [Windows 64-bit](http://wojcikowski.pl/travis/rf-score-vs_v1.0_win_2.7.zip)
 * [MacOS 64-bit](http://wojcikowski.pl/travis/rf-score-vs_v1.0_osc_2.7.zip)
 
+## Retraining scoring function / reusing features
+
+Features used in training of RF-Score-VS are available in `head1_full` directory.
+They are stored as compressed CSV files (`*.csv.gz`) and divided by DUD-e target in subdirectories.
+
+If you want to use all data, we provide a [convenient flat CSV files](https://wojcikowski.pl/rfscorevs/data/).
+
 ## Requirements for running iPython Notebooks
 
 Required software:
