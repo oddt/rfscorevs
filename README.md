@@ -14,7 +14,7 @@ Download RF-Score-VS for your platform:
 
 * [Linux 64-bit](http://wojcikowski.pl/travis/rf-score-vs_v1.0_linux_2.7.zip)
 * [Windows 64-bit](http://wojcikowski.pl/travis/rf-score-vs_v1.0_win_2.7.zip)
-* [MacOS 64-bit](http://wojcikowski.pl/travis/rf-score-vs_v1.0_osc_2.7.zip)
+* [MacOS 64-bit](http://wojcikowski.pl/travis/rf-score-vs_v1.0_osx_2.7.zip)
 
 ## Retraining scoring function / reusing features
 
